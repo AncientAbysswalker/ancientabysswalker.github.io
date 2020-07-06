@@ -656,7 +656,7 @@ a:hover {
   background-image: url(/assets/project-aria.png);
 }
 .project-card__cover--5 {
-  background-image: url(/assets/project-snake.png);
+  background-image: url(assets/project-snake.png);
 }
 .project-card__cover--6 {
   background-image: url(/assets/project-booking.png);
