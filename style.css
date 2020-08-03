@@ -664,6 +664,9 @@ a:hover {
 .project-card__cover--7 {
   background-image: url(/assets/project-validation.png);
 }
+.project-card__cover--8 {
+  background-image: url(/assets/project-pathfinding.png);
+}
 .project-card__content {
   padding: 1rem;
 }
